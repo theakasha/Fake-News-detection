@@ -13,12 +13,6 @@ Build a successful fake news detector!
 Install: Python 64bit 
 https://www.python.org/downloads/
 
-SET Environment Variables in Windows:
-
-Which Looks something like this:
-C:\Users\Vinay\AppData\Local\Programs\Python\Python36
-C:\Users\Vinay\AppData\Local\Programs\Python\Python36\Scripts
-C:\Users\Vinay\AppData\Local\Programs\Python\Python36\Lib\site-packages
 
 Install Jupyter Notebook:
 
@@ -51,10 +45,7 @@ FIX1 - Make Sure you have installed python 64bit
 FIX2 - Try running cell by cell ( section to section )
 
 
-A Big Thanks to Katharine Jarmul - https://www.datacamp.com/community/tutorials/scikit-learn-fake-news
 
-## [WEBSITE](http://www.docketrun.me)
 
-## [YOUTUBE](https://www.youtube.com/channel/UCpCIOA-Yxo_kXM01gJOJrWg)
 
 
